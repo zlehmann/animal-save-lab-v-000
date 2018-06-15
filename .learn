@@ -10,5 +10,5 @@ type:
   - lab
   - challenge
 tests:
- - green_onion
+ - rspec
 resources: 2
