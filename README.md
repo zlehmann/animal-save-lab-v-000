@@ -45,8 +45,9 @@ single media query should be used to solve each page.
   size of 406px to 1170px keeping him safe from their affection.
   * For the dolphin, using min-width and max-width help her rotate and jump up
   through the hoop from screen sizes of 642px to 1090px. Note: you can use
-  transform: rotate() command to accomplish this. [Read about the setting for
-  rotate here at Mozilla Developer Network(https://developer.mozilla.org/en-US/docs/Web/CSS/transform).
+  transform: rotate() command to accomplish this.
+  [Read about the setting for rotate here at Mozilla Developer Network][rotate].
+  
 
  There is a finished working copy of this site [here](http://learn-co-curriculum.github.io/animal-save/).
 
@@ -60,3 +61,5 @@ single media query should be used to solve each page.
 With media queries, web developers can make sure content will be displayed how it's meant be seen across a range of devices and screens and provide a consistent, effective user experience.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/animal-save'>Animal Save</a> on Learn.co and start learning to code for free.</p>
+
+[rotate]: https://developer.mozilla.org/en-US/docs/Web/CSS/transform
