@@ -23,7 +23,7 @@ trouble.
 ## Instructions
 
 1. Open the index.html in the browser to navigate to different animal pages to
-see which ones you can rescue. Click on any individual animal to see they
+see which ones you can rescue. Click on any individual animal to see the
 dangers they face. Once you are looking at a particular animals page, clicking
 and dragging on the corner of the browser and resizing the window you will see
 where the animal runs into trouble.
